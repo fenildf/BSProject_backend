@@ -1,0 +1,32 @@
+Arguments: 
+  D:\Node.js980\node.exe C:\Users\wuyusong\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js start
+
+PATH: 
+  C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Lenovo\FusionEngine;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\iFLYTEK\VoiceAssistant\SpeechPlusRuntime;C:\Program Files (x86)\Lenovo\Voice SDK;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;D:\Qt\Qt5.6.1\5.6\mingw49_32\bin;D:\Java\jdk1.8.0_144\bin;D:\Java\jdk1.8.0_144jre\bin;D:\Git2.10.1\Git\cmd;C:\Program Files (x86)\GtkSharp\2.12\bin;D:\Node.js980\;D:\FPC\3.0.4\bin\i386-Win32;D:\MAVEN353\apache-maven-3.5.3\bin;D:\Qt\Qt5.6.1\Tools\mingw492_32\bin;;C:\WINDOWS\System32\OpenSSH\;D:\Python36\Scripts\;D:\Python36\;D:\MyRuby\Ruby22-x64\bin;C:\Program Files (x86)\Lenovo\FusionEngine;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\iFLYTEK\VoiceAssistant\SpeechPlusRuntime;C:\Program Files (x86)\Lenovo\Voice SDK;C:\Program Files (x86)\Lenovo\Lenovo Home\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\MySQL\MySQL Utilities 1.6\;D:\Qt\Qt5.6.1\5.6\mingw49_32\bin;C:\Users\wuyusong\AppData\Local\Microsoft\WindowsApps;D:\Python27;C:\Users\wuyusong\AppData\Local\Microsoft\WindowsApps;C:\Users\wuyusong\AppData\Roaming\npm;D:\EPD-free-7.3-2;D:\EPD-free-7.3-2\Scripts;D:\Python27\Scripts;D:\MAVEN353\apache-maven-3.5.3\bin;D:\Qt\Qt5.6.1\Tools\mingw492_32\bin;
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  9.8.0
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "D:\\BSProject\\backend"
+      at new MessageError (C:\Users\wuyusong\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:186:110)
+      at C:\Users\wuyusong\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (C:\Users\wuyusong\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:98:30)
+      at C:\Users\wuyusong\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:109:13
+      at <anonymous>
